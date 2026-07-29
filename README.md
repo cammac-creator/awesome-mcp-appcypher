@@ -346,6 +346,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://ibanforge.com/favicon.ico" height="14"/> [IBANforge](https://github.com/cammac-creator/ibanforge) - Bank-account intelligence for agents: IBAN validation, BIC/SWIFT lookup across 121,610 entries, Swiss BC-Nummer and QR-IID clearing from SIX BankMaster, SEPA and VoP reachability, OFAC/EU sanctions screening at bank level, and a 0-100 risk score. stdio via `npx -y ibanforge-mcp` or Streamable HTTP at `api.ibanforge.com/mcp`.
 
 <br />
 
